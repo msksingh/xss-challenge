@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 .gemini/
+=======
+# gemini-cli settings
+.gemini/
+
+# GitHub App credentials
+>>>>>>> 599d000d573b025904bbe0c5ac5b1dcf5bdb5125
 gha-creds-*.json
